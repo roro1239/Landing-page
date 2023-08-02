@@ -1,2 +1,2 @@
 # Landing-page
-Landing page to display CSS and HTML skills.
+Landing page template  to display CSS and HTML skills.
